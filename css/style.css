@@ -1,0 +1,58 @@
+body{
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+}
+h1{
+  color: #66BFBF;
+  margin-top: 0px;
+font-family: 'Sacramento', cursive;
+font-size: 297%;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+ font-size:125%;
+}
+h3{
+  color: #11999E;
+}
+.topcontainer{
+  padding-top: 100px;
+  position: relative;
+  background-color:#BFEAF5;
+
+}
+.bottomcontainer{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.bottomcloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.topcloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.MUS{
+  POSITION: absolute;
+RIGHT: -2PX;
+TOP: 1173px;
+}
+.contactme:hover{
+  color: RED;
+}
+.players{
+  background-color: color:#FFC6D3;
+}
+.tab{
+  position: relative;
+    left: 534px;
+}
+.hobby{
+  width: 50%
+  margin:auto;
+}
