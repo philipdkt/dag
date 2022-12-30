@@ -1,0 +1,19 @@
+body{
+    font-family: 'Merriweather', serif;
+    background-color: white;
+}
+.pic{
+position: absolute;
+right: 48%;
+width: 339px;
+}
+.foot{
+  position: absolute;
+  bottom: 51%;
+  width: 15%;
+}
+.foot1{
+  width: 15%;
+  position:absolute;
+  bottom: 19%;
+}
